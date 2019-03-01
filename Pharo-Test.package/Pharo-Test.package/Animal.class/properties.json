@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Pharo-Test",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"animals"
+	],
+	"instvars" : [
+		"name",
+		"age"
+	],
+	"name" : "Animal",
+	"type" : "normal"
+}
